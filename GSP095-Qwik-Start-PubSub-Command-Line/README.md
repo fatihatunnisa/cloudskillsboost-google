@@ -2,7 +2,7 @@ Absolutely! Here's a fully color-enhanced, emoji-rich, and visually engaging ver
 
 ---
 
-```markdown
+```bash
 <h1 align="center">🚀 Google Cloud Pub/Sub: Qwik Start - Command Line (GSP095)</h1>
 
 <p align="center">
