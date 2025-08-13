@@ -1,7 +1,7 @@
 
-## 🖼️ Store, Process, and Manage Data on Google Cloud - Command Line: Challenge Lab (ARC102)
+## Store, Process, and Manage Data on Google Cloud - Command Line: Challenge Lab (ARC102)
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/fatihatunnisa/cloudskillsboost-google&cloudshell_working_dir=GSPXXX-Wild-Thumbnail-Generator&cloudshell_tutorial=README.md)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/fatihatunnisa/cloudskillsboost-google&cloudshell_working_dir=ARC102-Store-Process-and-Manage-Data-on-Google-Cloud-Command-Line:Challenge-Lab&cloudshell_tutorial=README.md)
 
 [![Google Cloud Functions Architecture](https://img.shields.io/badge/View-Architecture-blue?logo=googlecloud)](https://cloud.google.com/functions/docs/tutorials/storage)
 
@@ -69,13 +69,13 @@ Before running the script:
 
 ```bash
 git clone https://github.com/fatihatunnisa/cloudskillsboost-google.git
-cd cloudskillsboost-google/GSPXXX-Wild-Thumbnail-Generator
+cd cloudskillsboost-google/ARC102-Store-Process-and-Manage-Data-on-Google-Cloud-Command-Line:Challenge-Lab
 ```
 
 ### ✅ Method 2: Direct Download
 
 ```bash
-wget https://raw.githubusercontent.com/fatihatunnisa/cloudskillsboost-google/main/GSPXXX-Wild-Thumbnail-Generator/deploy_wild_thumbnail_generator.sh
+wget https://raw.githubusercontent.com/fatihatunnisa/cloudskillsboost-google/main/ARC102-Store-Process-and-Manage-Data-on-Google-Cloud-Command-Line:Challenge-Lab/deploy_wild_thumbnail_generator.sh
 chmod +x deploy_wild_thumbnail_generator.sh
 ```
 
