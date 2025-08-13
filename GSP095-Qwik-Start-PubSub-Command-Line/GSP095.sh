@@ -1,5 +1,5 @@
 #!/bin/bash
-# Filename: GSP095-Qwik-Start-PubSub-Command-Line.sh
+# Filename: GSP095-Qwik-Start-PubSub-Command-Line
 # Lab: Pub/Sub: Qwik Start - Command Line
 # Course: Google Cloud Skills Boost (GSP095)
 
