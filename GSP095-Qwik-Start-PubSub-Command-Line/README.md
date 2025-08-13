@@ -2,7 +2,7 @@
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/fatihatunnisa/cloudskillsboost-google&cloudshell_working_dir=GSP095-Qwik-Start-PubSub-Command-Line&cloudshell_tutorial=README.md)
 
-![Google Cloud Pub/Sub Architecture](https://cloud.google.com/static/pubsub/images/how-it-works.svg)
+[![Google Cloud Pub/Sub Architecture](https://img.shields.io/badge/View-Architecture-blue?logo=googlecloud) ] (https://cloud.google.com/pubsub/architecture)
 
 ## 📌 Table of Contents
 - [Lab Overview](#-lab-overview)
