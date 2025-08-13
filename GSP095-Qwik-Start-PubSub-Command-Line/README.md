@@ -1,79 +1,55 @@
-Absolutely! Here's a fully color-enhanced, emoji-rich, and visually engaging version of your `README.md` for the GSP095 Pub/Sub lab script. It’s designed to be eye-catching and intuitive for GitHub viewers, while preserving clarity and professionalism.
+ # Google Cloud Pub/Sub: Qwik Start - Command Line (GSP095)
 
----
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/fatihatunnisa/cloudskillsboost-google&cloudshell_working_dir=GSP095-Qwik-Start-PubSub-Command-Line&cloudshell_tutorial=README.md)
 
-```bash
-<h1 align="center">🚀 Google Cloud Pub/Sub: Qwik Start - Command Line (GSP095)</h1>
+[![Google Cloud Pub/Sub Architecture](https://img.shields.io/badge/View-Architecture-blue?logo=googlecloud)](https://cloud.google.com/pubsub/architecture)
 
-<p align="center">
-  <a href="https://ssh.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/fatihatunnisa/cloudskillsboost-google&cloudshell_working_dir=GSP095-Qwik-Start-PubSub-Command-Line&cloudshell_tutorial=README.md">
-    <img src="https://gstatic.com/cloudssh/images/open-btn.svg" alt="Open in Cloud Shell">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://cloud.google.com/pubsub/architecture">
-    <img src="https://img.shields.io/badge/View-Architecture-blue?logo=googlecloud" alt="Google Cloud Pub/Sub Architecture">
-  </a>
-</p>
+## 📌 Table of Contents
+- [Lab Overview](#-lab-overview)
+- [Prerequisites](#-prerequisites)
+- [Script Features](#-script-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Customization](#-customization)
+- [Output Examples](#-output-examples)
+- [Troubleshooting](#-troubleshooting)
+- [Cleanup](#-cleanup)
+- [Contributing](#-contributing)
+- [License](#-license)
 
----
+## 🔍 Lab Overview
+This repository contains an automation script for Google Cloud Skills Boost lab **GSP095: Pub/Sub: Qwik Start - Command Line**. The script completes all lab tasks including:
 
-## 📚 Table of Contents
-- [📌 Lab Overview](#-lab-overview)
-- [🛠️ Prerequisites](#-prerequisites)
-- [✨ Script Features](#-script-features)
-- [📥 Installation](#-installation)
-- [🚀 Usage](#-usage)
-- [🧰 Customization](#-customization)
-- [📊 Output Examples](#-output-examples)
-- [🐛 Troubleshooting](#-troubleshooting)
-- [🧹 Cleanup](#-cleanup)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
-- [🔗 Additional Resources](#-additional-resources)
-
----
-
-## 📌 Lab Overview
-This repository automates the **GSP095: Pub/Sub Qwik Start - Command Line** lab on Google Cloud Skills Boost.
-
-🔧 Tasks automated:
-- ✅ Topic creation and deletion
-- ✅ Subscription setup
-- ✅ Message publishing and pulling
-- ✅ Resource cleanup
-
----
+- Pub/Sub topic creation and management
+- Subscription configuration
+- Message publishing and pulling
+- Resource cleanup
 
 ## 🛠️ Prerequisites
-Before running the script, ensure:
-- ✅ Active Google Cloud Project
-- ✅ Owner or Editor IAM role
-- ✅ Cloud Shell or `gcloud` CLI installed
-- ✅ Pub/Sub API enabled (`pubsub.googleapis.com`)
-
----
+Before running the script:
+- Active Google Cloud Project
+- Owner or Editor permissions
+- Cloud Shell or gcloud CLI installed
+- Pub/Sub API enabled (`pubsub.googleapis.com`)
 
 ## ✨ Script Features
-
-| ⚙️ Feature             | 📄 Description                      | 🔥 Emoji |
-|-----------------------|--------------------------------------|----------|
-| **Auto-Setup**        | Environment configuration            | ⚙️       |
-| **Topic Management**  | Create/Delete topics                 | 📢       |
-| **Subscription Setup**| Manage pull subscriptions            | 📩       |
-| **Message Handling**  | Publish & pull messages              | ✉️       |
-| **Visual Feedback**   | Color-coded output with emojis       | 🎨       |
-| **Error Handling**    | Detects and logs common issues       | ❗       |
-| **Cleanup**           | Optional resource deletion           | 🧹       |
-
----
+| Feature | Description | Emoji Indicator |
+|---------|-------------|-----------------|
+| **Auto-Setup** | Configures environment automatically | ⚙️ |
+| **Topic Management** | Creates/Deletes topics | 📢 |
+| **Subscription Handling** | Manages pull subscriptions | 📩 |
+| **Message Operations** | Publishes & pulls messages | ✉️ |
+| **Visual Feedback** | Color-coded output with emojis | 🎨 |
+| **Error Handling** | Comprehensive error checking | ❗ |
+| **Cleanup** | Optional resource cleanup | 🧹 |
 
 ## 📥 Installation
-
-### ✅ Method 1: Cloud Shell
+### Method 1: Cloud Shell
 ```bash
 git clone https://github.com/fatihatunnisa/cloudskillsboost-google.git
 cd cloudskillsboost-google/GSP095-Qwik-Start-PubSub-Command-Line
 ```
+
 
 ### ✅ Method 2: Direct Download
 ```bash
