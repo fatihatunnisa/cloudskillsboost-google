@@ -75,8 +75,8 @@ cd cloudskillsboost-google/ARC102-Store-Process-and-Manage-Data-on-Google-Cloud-
 ### ✅ Method 2: Direct Download
 
 ```bash
-wget https://raw.githubusercontent.com/fatihatunnisa/cloudskillsboost-google/main/ARC102-Store-Process-and-Manage-Data-on-Google-Cloud-Command-Line:Challenge-Lab/deploy_wild_thumbnail_generator.sh
-chmod +x deploy_wild_thumbnail_generator.sh
+wget https://raw.githubusercontent.com/fatihatunnisa/cloudskillsboost-google/main/ARC102-Store-Process-and-Manage-Data-on-Google-Cloud-Command-Line:Challenge-Lab/ARC102.sh
+chmod +x ARC102.sh
 ```
 
 ---
@@ -86,7 +86,7 @@ chmod +x deploy_wild_thumbnail_generator.sh
 ### 🔹 Basic Execution
 
 ```bash
-./deploy_wild_thumbnail_generator.sh
+./ARC102.sh
 ```
 
 ### 🔹 Advanced Options
