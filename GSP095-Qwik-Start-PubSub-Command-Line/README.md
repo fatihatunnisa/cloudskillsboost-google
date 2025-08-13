@@ -44,7 +44,7 @@ Before running the script:
 | **Cleanup** | Optional resource cleanup | 🧹 |
 
 ## 📥 Installation
-### Method 1: Cloud Shell
+### ✅ Method 1: Cloud Shell
 ```bash
 git clone https://github.com/fatihatunnisa/cloudskillsboost-google.git
 cd cloudskillsboost-google/GSP095-Qwik-Start-PubSub-Command-Line
